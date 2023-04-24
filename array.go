@@ -9,7 +9,7 @@ func main() {
 	names[2] = "Blm Ada"
 
 	fmt.Println(names[0])
-	fmt.Println(names[1]
+	fmt.Println(names[1])
 	fmt.Println(names[2])
 	fmt.Println(names)
 	fmt.Println(len(names))
